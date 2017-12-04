@@ -10,7 +10,7 @@ export class HeroesComponent implements OnInit {
  
   myhero: Hero = {
     id: 1,
-    name: 'Luffy the Monkey',
+    name: 'Rene',
     gender: 'male'
   };
 
